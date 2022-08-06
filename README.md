@@ -11,3 +11,6 @@
 - 💬 Ask me about HTML, Javascript, CSS, React
 - 📫 How to reach me: nailenuryasar at gmail dot com
 - 😄 Pronouns: she/her
+
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=naile96)](https://github.com/anuraghazra/github-readme-stats)
